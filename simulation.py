@@ -1,7 +1,7 @@
 import numpy as np
-from Robot import Robot
+from robot import Robot
 
-
+# Simulation function
 def simulation():
     # Create two robot instances with different controllers
     robot1 = Robot("dynamic")
