@@ -16,6 +16,7 @@ The project aims to replicate and visualize the proposed controllers to understa
    ```
 2. Set up a Python virtual environment (optional but recommended):
    ```bash
+   cd model-reference-adaptive-control
    python3 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
