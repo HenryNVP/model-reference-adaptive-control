@@ -18,7 +18,7 @@ The project aims to replicate and visualize the proposed controllers to understa
    ```bash
    cd model-reference-adaptive-control
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   source venv/bin/activate
    ```
 3. Install the required packages:
    ```bash
@@ -36,7 +36,7 @@ python main.py
 - *Development of a Quadratic Curve Path Tracking based Smith Predictor Adaptive Controller for a Two-wheeled Mobile Robot*
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements.
